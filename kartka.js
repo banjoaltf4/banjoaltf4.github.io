@@ -6,7 +6,7 @@ kaboom();
 
 // obrazki 
 
-loadSprite("kartka", "choinka.png")
+loadSprite("kartka", "Choinka.png")
 loadSprite("kometa", "kometa.png")
 loadSprite("napis", "napis.png")
 loadSound("cichanoc", "cichanoc.mp3")
